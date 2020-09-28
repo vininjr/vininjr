@@ -30,8 +30,16 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<br/>
-
+<br/><br/>
+<div>
+    <div style="float:left;">
+        <img src="https://github-readme-stats.vercel.app/api/?username=vininjr&show_icons=true&theme=radical&count_private=true&include_all_commits=true&layout=compact" height="200" width="200"/>
+    </div>
+    <div style="float:left;">
+        <img class="https://github-readme-stats.vercel.app/api/top-langs/?username=vininjr&layout=compact&theme=radical src="/images/tv.gif"/ height="200" width="200"/>
+    </div>
+</div>
+<br/><br/>
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=vininjr&show_icons=true&theme=radical&count_private=true&include_all_commits=true&layout=compact)](https://github.com/vininjr)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vininjr&layout=compact&theme=radical)](https://github.com/vininjr)
