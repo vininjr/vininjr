@@ -33,6 +33,8 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 </div>
 <br/>
+
+### Stats
                                                                                                                                               
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=vininjr&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="300" width="420"/>
