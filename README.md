@@ -35,7 +35,7 @@
                                                                                                                                               
 <div>
   <img src="https://github-readme-stats.vercel.app/api/?username=vininjr&show_icons=true&theme=radical&count_private=true&include_all_commits=true&layout=compact" height="300" width="500"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vininjr&layout=compact&theme=radical" height="300" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vininjr&theme=radical" height="300" width="500"/>
 </div>
                                                                                                                                         
 <br/>
