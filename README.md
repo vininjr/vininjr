@@ -33,13 +33,11 @@
 
 <br/>
                                                                                                                                               
-<div><img src="https://github-readme-stats.vercel.app/api/?username=vininjr&show_icons=true&theme=radical&count_private=true&include_all_commits=true&layout=compact" height="200" width="200"/><img src="http://lorempixel.com/200/200/"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vininjr&layout=compact&theme=radical height="200" width="200"/>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/?username=vininjr&show_icons=true&theme=radical&count_private=true&include_all_commits=true&layout=compact" height="300" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vininjr&layout=compact&theme=radical" height="300" width="500"/>
 </div>
                                                                                                                                         
 <br/>
                                                                                                                                         
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=vininjr&show_icons=true&theme=radical&count_private=true&include_all_commits=true&layout=compact)](https://github.com/vininjr)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vininjr&layout=compact&theme=radical)](https://github.com/vininjr)
-<br/>
+
