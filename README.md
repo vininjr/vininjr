@@ -3,6 +3,7 @@
 ### Hi there <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 
 - 🌱 I’m currently learning node, ReactJS, VueJS...
+༼ つ ◕_◕ ༽つ
 
 ### 📫 How to reach me:   
 
