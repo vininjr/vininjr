@@ -43,7 +43,7 @@
   <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=400 height=340>
   <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=340/>
 </p>
-
+<br/>
 <p align="center">
   <img src="https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif"/>
 </p>
