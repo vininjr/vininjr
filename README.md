@@ -44,7 +44,8 @@
   <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=340/>
 </p>
 
-
 <p align="center">
-  ![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
+  <img src="https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif" width=400 height=340/>
 </p>
+
+![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
