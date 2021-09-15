@@ -47,5 +47,3 @@
 <p align="center">
   <img src="https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif"/>
 </p>
-
-![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
