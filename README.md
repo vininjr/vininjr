@@ -39,9 +39,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vininjr&theme=radical&layout=compact" height="300" width="350"/>
 </div>
 
-![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=400 height=340>
   <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=340/>
+</p>
+
+
+<p align="center">
+  ![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
 </p>
