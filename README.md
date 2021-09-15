@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif" width=400 height=340/>
+  <img src="https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif"/>
 </p>
 
 ![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
